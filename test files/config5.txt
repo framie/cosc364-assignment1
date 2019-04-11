@@ -1,0 +1,6 @@
+
+router-id 5
+
+input-ports 10504, 10506
+
+outputs 10405-2-4, 10605-1-6
